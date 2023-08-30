@@ -1,1 +1,2 @@
-User Profiles
+User Profiles 
+    New Users Discount
